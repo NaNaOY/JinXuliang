@@ -51,7 +51,6 @@ public class StringUtilTest {
         }
         return pinyinStr;
     }
-
     /**
      * 汉字转为拼音
      * @param chinese
