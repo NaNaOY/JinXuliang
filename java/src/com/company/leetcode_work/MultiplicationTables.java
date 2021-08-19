@@ -1,5 +1,5 @@
-package com.company.work1;
-import java.util.Scanner;
+package com.company.leetcode_work;
+
 public class MultiplicationTables {
     public static void main(String[] args) {
       for(int i=1;i<10;i++){

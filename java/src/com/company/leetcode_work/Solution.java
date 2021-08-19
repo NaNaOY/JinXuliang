@@ -1,4 +1,4 @@
-package com.company.work1;
+package com.company.leetcode_work;
 
 import java.util.Scanner;
 
