@@ -6,11 +6,10 @@ public class Convert_Roman_numerals_to_integers {
     public int romanToInt(String s) {
         int ans = 0;
         String pop = s;
-        String str1 = "";
-        String str2 = "";
+
         for (int i = 0; i < pop.length(); i++) {
-            str1 = s.substring(0, 1);
-            str2 = s.substring(1);
+            String str1 = s.substring(0, 1);
+            String str2 = s.substring(1);
             switch (str1) {
                 case "I":
                     ans += 1;
